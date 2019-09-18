@@ -1,0 +1,11 @@
+# Linux temporary files.
+*~
+.\#*
+\#*\#
+
+# Python compiled files.
+*.pyc
+
+# virtualenv.
+env/
+venv/
